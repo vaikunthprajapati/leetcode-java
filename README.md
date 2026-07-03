@@ -18,4 +18,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
