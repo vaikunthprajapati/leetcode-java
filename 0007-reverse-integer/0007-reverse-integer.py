@@ -1,19 +1,10 @@
-class Solution(object):
+class Solution:
     def reverse(self, x):
-        INT_MIN= -2**31
-        INT_MAX= 2**31-1
-        sign=-1 if x<0 else 1
-        x=abs(x)
+        sign = -1 if x < 0 else 1
 
-        reversed=0
-        while x != 0:
-            digit=x%10
-            reversed=reversed*10+digit
-            x=x//10
+        reversed_number = int(str(abs(x))[::-1]) * sign
 
-        reversed*= sign
+        if -(2**31) <= reversed_number <= 2**31 - 1:
+            return reversed_number
 
-        if reversed<INT_MIN or reversed>INT_MAX:
-            return 0
-        return reversed
-        
+        return 0
