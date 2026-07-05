@@ -12,6 +12,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
