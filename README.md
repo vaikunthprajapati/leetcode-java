@@ -21,12 +21,14 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -68,4 +70,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
