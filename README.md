@@ -15,6 +15,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0152-maximum-product-subarray](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -71,6 +72,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
