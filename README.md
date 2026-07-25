@@ -14,6 +14,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
@@ -26,6 +27,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 ## Math
@@ -33,6 +35,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0007-reverse-integer](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0509-fibonacci-number) |
 ## String
