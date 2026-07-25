@@ -24,6 +24,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
