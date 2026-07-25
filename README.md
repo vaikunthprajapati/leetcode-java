@@ -9,6 +9,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
@@ -79,6 +81,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
