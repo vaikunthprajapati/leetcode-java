@@ -10,6 +10,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0152-maximum-product-subarray) |
@@ -22,6 +23,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
