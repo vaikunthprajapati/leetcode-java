@@ -25,6 +25,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -44,6 +45,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Prefix Sum
