@@ -24,6 +24,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
