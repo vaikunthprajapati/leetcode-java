@@ -21,6 +21,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -84,6 +87,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
