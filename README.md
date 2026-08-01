@@ -17,6 +17,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
@@ -156,4 +158,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
