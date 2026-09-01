@@ -56,6 +56,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
@@ -188,6 +189,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
