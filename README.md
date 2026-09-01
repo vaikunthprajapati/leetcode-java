@@ -88,6 +88,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -189,6 +190,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
