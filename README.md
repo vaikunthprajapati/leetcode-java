@@ -204,4 +204,5 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
