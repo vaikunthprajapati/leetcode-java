@@ -82,6 +82,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0125-valid-palindrome](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -177,6 +179,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -220,4 +223,5 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
