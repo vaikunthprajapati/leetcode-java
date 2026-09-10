@@ -77,6 +77,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
@@ -173,6 +174,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -214,4 +216,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
