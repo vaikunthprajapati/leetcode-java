@@ -1,8 +1,6 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
         Stack<Integer> stack = new Stack<>();
-        Boolean flag = false;
-        int count = 0;
         boolean [] arr = new boolean[s.length()];
         for(int i = 0; i <s.length(); i++){
             char ch = s.charAt(i);
