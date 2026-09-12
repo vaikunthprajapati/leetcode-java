@@ -83,6 +83,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
