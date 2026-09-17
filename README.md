@@ -36,6 +36,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -152,6 +153,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -167,6 +169,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
