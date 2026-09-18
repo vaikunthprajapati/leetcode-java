@@ -31,6 +31,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0278-first-bad-version](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
