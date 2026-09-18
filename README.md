@@ -31,6 +31,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
@@ -116,6 +117,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
