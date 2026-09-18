@@ -120,6 +120,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
@@ -222,6 +223,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
 ## Linked List
 |  |
