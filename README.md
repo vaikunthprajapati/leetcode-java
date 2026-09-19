@@ -188,6 +188,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -213,6 +214,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0020-valid-parentheses](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -258,6 +260,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
