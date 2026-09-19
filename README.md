@@ -42,6 +42,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
@@ -158,6 +159,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -191,6 +193,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0225-implement-stack-using-queues](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
@@ -204,6 +207,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2149-rearrange-array-elements-by-sign) |
