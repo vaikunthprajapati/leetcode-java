@@ -48,6 +48,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -189,6 +190,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
