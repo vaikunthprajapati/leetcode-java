@@ -30,6 +30,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
@@ -155,6 +156,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0049-group-anagrams](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
@@ -183,6 +185,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0142-linked-list-cycle-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
