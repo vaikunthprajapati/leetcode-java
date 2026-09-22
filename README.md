@@ -9,6 +9,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0027-remove-element) |
@@ -175,6 +176,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0141-linked-list-cycle) |
