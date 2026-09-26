@@ -34,6 +34,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,6 +161,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0215-kth-largest-element-in-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0905-sort-array-by-parity) |
@@ -189,6 +191,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0202-happy-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +209,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -284,15 +288,18 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -309,4 +316,8 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
