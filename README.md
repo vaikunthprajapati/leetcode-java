@@ -29,6 +29,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0162-find-peak-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0217-contains-duplicate) |
@@ -244,6 +245,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 ## Ternary Search
 |  |
 | ------- |
@@ -320,4 +322,16 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
