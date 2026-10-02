@@ -41,6 +41,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0540-single-element-in-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
@@ -246,6 +247,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 ## Ternary Search
 |  |
 | ------- |
@@ -326,12 +328,15 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
