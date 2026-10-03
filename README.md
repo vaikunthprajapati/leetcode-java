@@ -330,6 +330,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -337,6 +338,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0733-flood-fill) |
 ## Matrix
@@ -349,10 +351,12 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
