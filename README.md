@@ -54,6 +54,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0977-squares-of-a-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vaikunthprajapati/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -249,6 +250,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0128-longest-consecutive-sequence](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Ternary Search
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | ------- |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -361,4 +364,20 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
