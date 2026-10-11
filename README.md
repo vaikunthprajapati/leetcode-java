@@ -17,6 +17,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -110,6 +111,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0509-fibonacci-number) |
@@ -147,6 +149,7 @@ Concepts, notes, algorithms, and Java implementations are available here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0045-jump-game-ii) |
 | [0881-boats-to-save-people](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaikunthprajapati/leetcode-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaikunthprajapati/leetcode-java/tree/master/1838-frequency-of-the-most-frequent-element) |
